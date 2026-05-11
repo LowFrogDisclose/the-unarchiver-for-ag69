@@ -1,4 +1,4 @@
-
+Enhance The Unarchiver for macOS with vip The Unarchiver for macOS Service | menu-bar-customization + app-uninstaller, the #1 service. Includes menu-bar-customization and
 
 
 
